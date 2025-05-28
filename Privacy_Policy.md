@@ -40,5 +40,39 @@ We do not provide a direct way for users to request deletion of their data from 
 
 If you have questions or concerns about your personal data, please contact us at: phyonyinyihtet57@gmail.com
 
-6. Contact Us
+7. Data Collection
+We value your privacy and are committed to protecting your personal information. Our app collects limited user data through third-party services to improve functionality and user experience. The types of data collected include:
+
+Device Information: Device ID, operating system version, and app version for performance and analytics.
+
+Crash Data: Anonymous crash logs to help diagnose and fix issues.
+
+Usage Data: Information about how you interact with the app, such as which screens you visit and how often, collected for analytics.
+
+Advertising Data: Google AdMob may collect and use your device's Advertising ID to show personalized ads.
+
+📌 How We Use Your Data
+The data collected is used for the following purposes:
+
+To monitor and improve app performance (Firebase Analytics)
+
+To fix bugs and prevent crashes (Crashlytics)
+
+To send push notifications (Firebase Cloud Messaging)
+
+To display personalized ads (Google AdMob)
+
+📌 Data Sharing
+We do not sell or share your personal information directly. However, third-party SDKs integrated in the app (such as Google services) may process data in accordance with their privacy policies.
+
+You can learn more here:
+
+Google AdMob Privacy Policy
+
+Firebase Privacy and Security
+
+📌 Data Retention and Deletion
+We do not store personal data on our servers. All data is handled by third-party services according to their own data retention and deletion policies. Users may manage their ad preferences via their device settings (e.g., "Opt out of Ads Personalization").
+
+8. Contact Us
 If you have any questions about this policy, you can contact us at: phyonyinyihtet57@gmail.com
