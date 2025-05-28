@@ -31,5 +31,14 @@ This app is not directed toward children under 13. We do not knowingly collect d
 5. Changes to This Policy
 We may update this Privacy Policy at any time. Continued use of the app means you agree to the updated policy.
 
+6. User Data Deletion Policy
+Our app does not require user registration or login, and we do not directly collect or store any personally identifiable information.
+
+Any user data that is collected automatically through third-party services such as Google Analytics, AdMob, or Firebase is managed by these services according to their own data retention policies.
+
+We do not provide a direct way for users to request deletion of their data from within the app. However, user data collected by third-party services is automatically deleted or anonymized within 90 days in accordance with their policies.
+
+If you have questions or concerns about your personal data, please contact us at: phyonyinyihtet57@gmail.com
+
 6. Contact Us
 If you have any questions about this policy, you can contact us at: phyonyinyihtet57@gmail.com
